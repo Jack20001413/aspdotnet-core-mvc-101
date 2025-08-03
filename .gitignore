@@ -52,3 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# .NET bin and obj folders
+bin/
+obj/
+
+# .env files
+.env
